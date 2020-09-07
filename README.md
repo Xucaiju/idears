@@ -1,4 +1,4 @@
 # idears
 ![idears_icon_png.png](https://i.loli.net/2020/09/06/mW1VPHKgjwhdyeR.png)<br>
 A manager for bluetooth devices, such as your bluetooth headset.<br>
-<img src="https://i.loli.net/2020/09/06/oGPfMVtJBZ4K8Ip.png" width="320px" height="640px"/>
+<img src="https://i.loli.net/2020/09/07/qL63fNpBPc59XeG.png" width="320px" height="640px"/>
